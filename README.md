@@ -1,2 +1,2 @@
 # Moviedux
-React into project with state and router
+React intro project with state and router
