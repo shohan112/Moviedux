@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Moviedux
 React intro project with state and router
 =======
@@ -72,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 06dea80 (Initialize project using Create React App)
